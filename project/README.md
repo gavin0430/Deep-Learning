@@ -1,5 +1,4 @@
-main.py will generate the car model to run on drive.py
-drive.py can run with the udacity's simulator
+main.py will generate the car model to run on drive.py and drive.py can run with the udacity's simulator
 
 Reference:
 
